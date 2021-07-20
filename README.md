@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @SP-SuperPoney
+- 👀 I’m interested in database administration (Oracle, PostreSQL, ...), developpement (C#, C++, .net, ...) and video game engines (Unreal Engine, Unity, ...)
+- 🌱 I’m currently learning Unreal Engine
+- 💞️ I’m looking to collaborate on machine learning with realtime applciation (3D)
+- 📫 How to reach me superponey@free.fr or https://twitter.com/_superponey
