@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @SP-SuperPoney
-- 👀 I’m interested in database administration (Oracle, PostreSQL, ...), virtualization (Docker <3) and developpement (C#, C++, .net, ...) and video game engines (Unreal Engine, Unity, ...)
-- 🌱 I’m currently learning Unreal Engine 
-- 💞️ I’m looking to collaborate on machine learning with realtime applications (3D). Planning to upgrade ML-Agents-Penguins and Hummingbird Unity tutorials to Unreal Engine platform (https://github.com/SP-SuperPoney/ML-Agents-Penguins).
-- 📫 How to reach me superponey@free.fr or https://twitter.com/_superponey
+- 👀 I’m interested in database administration (Oracle, PostreSQL, ...), virtualization (Docker <3), developpement (C#, C++, .net, ...) and off course video game engines (Unreal Engine, Unity, Godot, ...)
+- 🌱 I’m currently learning <del>Unity</del>, <del>Unreal Engine</del>, Godot
+- 💞️ I’ve cerating an organisation [SuperPoney Games](https://superpony-games.github.io/) with my kid where you can find our released games.
+- [x] <del>Planning to upgrade</del> upgraded ML-Agents-Penguins and Hummingbird Unity tutorials to Unreal Engine platform (https://github.com/SP-SuperPoney/ML-Agents-Penguins).
+- 📫 How to reach me superponey@free.fr or https://x.com/_superponey
